@@ -19,13 +19,13 @@ please, make sure you have installed all dependencies with
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-#### Some notes:
+### Some notes:
 
--Project uses hardcoded data set **transactionList** which normally would come as API response. 
--In real project I would use:
-- React Router for navigating between views (e.g. totalReward view, customerTransactions/Reward view). 
-- Separate APIs to get list of all transactions, search API, get info by Customer, etc.
-- Store list of all transactions in global store.
+- Project uses hardcoded data set **transactionList** which normally would come as API response. 
+- In real project I would use:
+ - React Router for navigating between views (e.g. totalReward view, customerTransactions/Reward view). 
+ - Separate APIs to get list of all transactions, search API, get info by Customer, etc.
+ - Store list of all transactions in global store.
 
 
 
